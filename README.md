@@ -2,8 +2,8 @@
 
 ##  Student Details
 **Name:** Rishi Raushan Singh 
-**Registration Number:** [Your Reg No.]  
-**Branch:** [Your Branch]  
+**Registration Number:** 25BAI11456 
+**Branch:** CSE(AI & ML)  
 **Year:** 1st Year B.Tech  
 
 ---
